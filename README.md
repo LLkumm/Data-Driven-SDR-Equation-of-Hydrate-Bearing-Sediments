@@ -1,2 +1,2 @@
 # Data-Driven-SDR-Equation-of-Hydrate-Bearing-Sediments
-This is the main workflow and computational implementation of the paper _Hydraulic Properties of Hydrate-Bearing Sediments from Nuclear Magnetic Resonance Measurements Using Machine Learning_ by Zikun Li, Zhun Zhang, Sheng Dai, and Fulong Ning. DOI: 
+This is the main workflow and computational implementation of the paper _Machine Learning-Based Nuclear Magnetic Resonance Measurements of Hydraulic Properties in Hydrate-Bearing Sediments_ by Zikun Li, Zhun Zhang, Sheng Dai, and Fulong Ning. DOI: 
